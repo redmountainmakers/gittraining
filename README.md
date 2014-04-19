@@ -4,4 +4,6 @@ gittraining
 Repository for git training purposes
 
 Also mod!
-MODIFIED!
+
+This file really sucks
+
